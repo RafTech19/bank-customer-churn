@@ -21,6 +21,7 @@ Bank XYZ wants to reduce customer churn by understanding:
 
 ## Dataset Information
 Kaggle : https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
+
 The dataset contains **10,000 customers** with **15 variables**, including:
 
 - CustomerId
@@ -184,8 +185,10 @@ Interactive dashboard available on Tableau Public:
 [View Dashboard](https://public.tableau.com/app/profile/muhammad.rafli.febriyanto/viz/P1M2_Muhamad_Rafli_Febriyanto/Dashboard1)
 
 ---
-Presentation (Canva) : https://www.canva.com/design/DAHDFUTXE5U/b60Ix1glrk4pL5ZAStczKw/edit?utm_content=DAHDFUTXE5U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+Presentation (Canva) : [View Presentation] (https://www.canva.com/design/DAHDFUTXE5U/b60Ix1glrk4pL5ZAStczKw/edit?utm_content=DAHDFUTXE5U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
 
 ## Tools Used
 

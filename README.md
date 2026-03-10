@@ -186,7 +186,10 @@ Interactive dashboard available on Tableau Public:
 
 ---
 
-Presentation (Canva) : [View Presentation] (https://www.canva.com/design/DAHDFUTXE5U/b60Ix1glrk4pL5ZAStczKw/edit?utm_content=DAHDFUTXE5U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Presentation (Canva) : 
+
+[View Presentation] 
+(https://www.canva.com/design/DAHDFUTXE5U/b60Ix1glrk4pL5ZAStczKw/edit?utm_content=DAHDFUTXE5U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 

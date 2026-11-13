@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.pkl_backup
+best_xgboost_pipeline_backup.pkl
+.vscode/
+.idea/

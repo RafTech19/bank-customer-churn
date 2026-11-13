@@ -1,7 +1,7 @@
 # bank-customer-churn
 Customer Churn Analysis & Machine Learning Prediction System in the Banking Industry: Identifying Key Drivers and Retaining High-Risk Customer Segments.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/raftech19/bank-customer-churn/main/app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bankcustomerchurn2323.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.6.1-orange.svg)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Tuned-green.svg)](https://xgboost.readthedocs.io/)
@@ -12,8 +12,7 @@ Customer Churn Analysis & Machine Learning Prediction System in the Banking Indu
 
 Aplikasi web interaktif telah dibangun dan dapat diakses publik oleh siapa saja secara gratis melalui **Streamlit Community Cloud**:
 
-👉 **[Buka Aplikasi Streamlit Live](https://share.streamlit.io/raftech19/bank-customer-churn/main/app.py)**  
-*(Alternatif direct URL: [https://bank-customer-churn-raftech19.streamlit.app](https://bank-customer-churn-raftech19.streamlit.app))*
+👉 **[Buka Aplikasi Streamlit Live (bankcustomerchurn2323.streamlit.app)](https://bankcustomerchurn2323.streamlit.app)**  
 
 ---
 
